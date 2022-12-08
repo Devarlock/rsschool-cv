@@ -1,3 +1,3 @@
-* Vlad Stepanov
-** About me
-*** Contacts
+# Vlad Stepanov
+## About me
+### Contacts
